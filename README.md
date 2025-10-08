@@ -1,1 +1,1 @@
-# insurance-management-system
+# polling-voting-application
